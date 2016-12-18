@@ -23,22 +23,24 @@ form {
     padding-right: 40px;
     padding-left: 40px;
 }
-form.signup-form h1{
+
+form.signup-form h1 {
     font-weight: lighter;
     color: #555;
 }
+
 form.signup-form input,
-form.signup-form button{
+form.signup-form button {
     border-radius: 3px;
     padding: 15px;
 }
 
-form.signup-form input{
+form.signup-form input {
     width: 286px;
     border: 2px solid #bababa;
 }
 
-form.signup-form button{
+form.signup-form button {
     margin-top:16px;
     height: auto;
     width: 320px;
@@ -49,12 +51,12 @@ form.signup-form button{
     border: none;
 }
 
-form.signup-form button:hover{
+form.signup-form button:hover {
     background-color: green;
 }
 
-form p a{
-color:#bababa;
+form p a {
+    color:#bababa;
 }
 
 .signup-form .form label {
@@ -64,8 +66,8 @@ color:#bababa;
     margin-bottom: 16px;
 }
 
-p.signup-form a{
-color: #ffffff;
-text-decoration: none;
-font-weight: bold;
+p.signup-form a {
+    color: #ffffff;
+    text-decoration: none;
+    font-weight: bold;
 }
